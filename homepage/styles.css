@@ -1,0 +1,22 @@
+.result {
+    color: blue;
+}
+.contact {
+    margin: 10px 20px;
+    font-size: 55px;
+    border: 2px solid black;
+}
+.project {
+    font-family: 'Arial';
+}
+p {
+    font-family: 'Arial';
+    font-size: 25px;
+}
+button:hover {
+    background-color: gray;
+}
+body {
+    text-align: center;
+}
+
